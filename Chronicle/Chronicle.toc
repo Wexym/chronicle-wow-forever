@@ -1,0 +1,28 @@
+## Interface: 16001
+## Title: Летопись
+## Notes: Заметки на игроков, чеклист, статистика и журнал в одном окне.
+## Version: 0.1.0
+## Author: Wexym
+## X-Website: https://github.com/Wexym/chronicle-wow-forever
+## SavedVariables: ChronicleDB
+## SavedVariablesPerCharacter: ChronicleCharDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+
+Locale\ruRU.lua
+Core\Init.lua
+Core\Utils.lua
+Core\Commands.lua
+UI\Widgets.lua
+UI\MainFrame.lua
+Modules\Players.lua
+Modules\Checklist.lua
+Modules\Stats.lua
+Modules\Journal.lua
+Modules\Alts.lua
+Modules\Goals.lua
+Modules\Wishlist.lua
+Modules\Reminders.lua
+Modules\Stream.lua
+Modules\Hardcore.lua
+Modules\Wowhead.lua
+Modules\Settings.lua
